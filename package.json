@@ -1,0 +1,21 @@
+{
+  "name": "js-course_web-garage_lesson_7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "http-server -p 3004"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "js-course": "github:alexeirybak/JS-course",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^9.22.0",
+    "http-server": "^14.1.1"
+  }
+}
