@@ -2,6 +2,7 @@
   "name": "js-course_web-garage_lesson_7",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "node index.js",
     "start": "http-server -p 3004"
