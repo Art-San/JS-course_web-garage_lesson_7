@@ -1,5 +1,6 @@
-import { formatDateToRU, formatDateToUS } from './node_modules/js-course'
+import { formatDateToRU } from '/node_modules/js-course/lib/formatDate/formatDate.js'
 
 const data = new Date()
 
-console.log(formatDateToRU(date))
+console.log(data)
+console.log(formatDateToRU(data))
